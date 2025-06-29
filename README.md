@@ -1,1 +1,2 @@
 # Wing-Spar-deisgn
+This project was carried out to get familiar with Python programming and to practice implementing basic mathematical calculations. The goal was to perform mathematical operations using NumPy and to visualize the results through graphs using Matplotlib. It served as an introductory exercise to understand how Python can be used for numerical analysis and data visualization in engineering applications.
